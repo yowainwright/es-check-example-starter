@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "dependencies": {
+    "es-check": "^9.1.4"
+  },
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
